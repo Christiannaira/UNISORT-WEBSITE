@@ -532,7 +532,6 @@ section {
 
 .links {
     padding: 60px 15%;
-
 }
 
 .links-content {
@@ -542,6 +541,7 @@ section {
 
 .links-content .row-list li {
     transition: .4s ease;
+    font-size: 13px;
     cursor: pointer;
 }
 
